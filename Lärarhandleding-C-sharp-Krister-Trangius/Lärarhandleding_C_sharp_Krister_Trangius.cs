@@ -50,7 +50,13 @@
 
             string dir = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
             string projectDir = dir + @"\..\..\";
-            System.IO.StreamReader reader = new System.IO.StreamReader(projectDir + "latin-1.txt");
+            System.IO.StreamReader reader = new System.IO.StreamReader(projectDir + "latin-1.txt", System.Text.Encoding.GetEncoding("iso-8859-1"));
+            System.Console.OutputEncoding = System.Text.Encoding.GetEncoding("iso-8859-1");
+
+            string line;
+            while ((line = reader.ReadLine()) != null) {
+                System.Console.WriteLine(line);
+            }
 
         }
     }

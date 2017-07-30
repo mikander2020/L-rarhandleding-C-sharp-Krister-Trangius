@@ -1,4 +1,2 @@
-Detta är text skriven i latin-1 kodformat.
-Går det att äta en räksmörgås?
+Räksmörgås text skriven i latin-1 kodformat.
 Klarar den tecken med accent, typ é och à?
-Lagt till 

@@ -1,2 +1,2 @@
-Räksmörgås text skriven i latin-1 kodformat.
-Klarar den tecken med accent, typ é och à?
+ï»¿RÃ¤ksmÃ¶rgÃ¥s text skriven i latin-1 kodformat.
+Klarar den tecken med accent, typ Ã© och Ã ?

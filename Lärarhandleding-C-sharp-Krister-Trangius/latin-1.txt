@@ -1,3 +1,3 @@
-ï»¿Detta Ã¤r text skriven i latin-1 kodformat.
-GÃ¥r det att Ã¤ta en rÃ¤ksmÃ¶rgÃ¥s?
-Klarar den tecken med accent, typ Ã© och Ã ?
+Detta är text skriven i latin-1 kodformat.
+Går det att äta en räksmörgås?
+Klarar den tecken med accent, typ é och à?
